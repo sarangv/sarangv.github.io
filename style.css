@@ -82,7 +82,7 @@ header .row_web{
 
 .home {
   min-height: 100vh;
-  background-image: url(Images/home.png);
+  background-image: url(Images/IMG_7392.JPG);
   background-size: cover;
   background-position: center;
 }
@@ -117,7 +117,7 @@ header .row_web{
 }
 
 .home .home-content .block h1{
-  color: #B90E0A;
+  color: #fff;
   font-size: 75px;
   margin: 0;
   font-weight: 600;
