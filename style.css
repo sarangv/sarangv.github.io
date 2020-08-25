@@ -360,9 +360,10 @@ h2:after{
 }
 
 .col_project img{
-  width:100%;
+  width:40.5vh;
+  height:30vh;
   cursor: pointer;
-  transform: scale(1.1);
+  transform: scale(1);
   transition: 1s;
 }
 
